@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "17253725705",
+    "project_id": "text-detection-using-camera",
+    "storage_bucket": "text-detection-using-camera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17253725705:android:721b8521eb059aa03b2ad8",
+        "android_client_info": {
+          "package_name": "com.rafal.text_detection_using_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17253725705-qn6c2aeth4quetlfd1hnbpnb02d3rt1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZoacECO8tkcFefJ9WaJNDuxy2LrWJGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17253725705-qn6c2aeth4quetlfd1hnbpnb02d3rt1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17253725705:android:a924c9c06e4e6cec3b2ad8",
+        "android_client_info": {
+          "package_name": "com.rafal.text_recognition_using_camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17253725705-qn6c2aeth4quetlfd1hnbpnb02d3rt1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZoacECO8tkcFefJ9WaJNDuxy2LrWJGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17253725705-qn6c2aeth4quetlfd1hnbpnb02d3rt1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
