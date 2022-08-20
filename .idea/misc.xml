@@ -6,7 +6,13 @@
         <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/drawable-v24/ic_history.xml" value="0.1545" />
         <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/drawable-v24/ic_translate.xml" value="0.1545" />
         <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/layout/activity_text_detection.xml" value="0.24615384615384617" />
+        <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/layout/fragment_first.xml" value="0.15" />
+        <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/layout/fragment_history.xml" value="0.24615384615384617" />
+        <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/layout/item_history_data.xml" value="0.24895833333333334" />
         <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/phoneApps/Text_detection_using_camera/app/src/main/res/xml/xml.xml" value="0.20512820512820512" />
       </map>
     </option>
   </component>
